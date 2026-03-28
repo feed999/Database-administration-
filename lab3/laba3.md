@@ -250,7 +250,7 @@ WHERE title = 'Elden Ring';
 ```
 
 Результат триггер успешно срабатывает:
-![alt text](images/image-15.png)
+![alt text](images/image-25.png)
 
 ## 5. Автоматическая очистка и статистика (VACUUM, ANALYZE)
 
